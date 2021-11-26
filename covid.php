@@ -7,6 +7,7 @@
   foreach ( $data[0] as $key => $val ){
     echo $key.":".$val."<br>";
   }
+echo "</table>";
 for($i=0;$i<10;$i++){
           echo "<tr>";
           echo "<td>คอลัมน์1</td>";
