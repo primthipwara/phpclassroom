@@ -13,5 +13,4 @@ for($i=0;$i<10;$i++){
           echo "<td>คอลัมน์1</td>";
           echo "<td>คอลัมน์2</td>";
           echo "</tr>";
-  echo "</table>";
 ?>
