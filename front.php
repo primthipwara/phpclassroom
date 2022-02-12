@@ -8,7 +8,7 @@
       }
       @font-face{
         font-family: myFont2;
-        src: url(.....);
+        src: url(lookpeach.woff);
       }
       #font1{
         font-family: myFont;
